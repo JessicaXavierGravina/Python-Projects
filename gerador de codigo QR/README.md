@@ -13,5 +13,5 @@ Ele gera o código QR e salva em formato png.
 - qrcode:usado para gerar QRcode atendendo aos requisitos do usuário.
 - Image: usado para salvar o QR Code gerado no formato de imagem necessária.
 
-qrcode  (pip  install QRcode)
+qrcode  (pip  install QRcode)<br>
 image (pip  install image)
